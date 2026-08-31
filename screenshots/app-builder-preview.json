@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Главный закон — Классный час",
+      "hasCanvas": false,
+      "bodyTextLen": 265,
+      "bodyTextHash": "b5714153f4a37ab16029360993633473a83fb248578ea643c08412504cd9b0d7",
+      "bodyTextPrefix": "БАСТЫ ЗАҢ 1 / 12 · Наш главный закон Классный час · 5 класс Наш ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Главный закон — Классный час",
+      "hasCanvas": false,
+      "bodyTextLen": 258,
+      "bodyTextHash": "c544ab5ec0121cf7dd2f22d93450a8d5b8d80b32e6d19d194c1bb627e9808721",
+      "bodyTextPrefix": "БАСТЫ ЗАҢ 1 / 12 · Наш главный закон Классный час · 5 класс Наш ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
